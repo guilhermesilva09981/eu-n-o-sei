@@ -47,6 +47,7 @@ body {
 .texto p {
    line-height: 2em;
    margin-bottom: 1.5em;
+   font-style: italic;
 }
 
 .imagem {
