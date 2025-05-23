@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+
 * {
    margin: 0;
    padding: 0;
@@ -14,6 +17,10 @@ body {
 .descricao {
    text-align: center;
    margin-bottom: 2em;
+}
+
+.descricao h1 h3{
+     font-family: "Metal Mania", system-ui;
 }
 
 .secao {
