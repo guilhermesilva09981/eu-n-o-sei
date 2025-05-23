@@ -17,11 +17,9 @@ body {
 .descricao {
    text-align: center;
    margin-bottom: 2em;
+   font-family: "Metal Mania", system-ui;
 }
 
-.descricao h1 h3{
-     font-family: "Metal Mania", system-ui;
-}
 
 .secao {
    max-width: 1200px;
